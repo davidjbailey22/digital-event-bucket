@@ -1,6 +1,6 @@
 Overview
 
-Small desktop app that selects a value in sqlite database
+Small desktop app that allows user to randomly select a value in a sqlite database
 
 Example
 
